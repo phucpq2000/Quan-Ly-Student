@@ -1,0 +1,228 @@
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll.config
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.pdb
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe.config
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.rsp
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe.config
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.rsp
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Managed.Core.targets
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.AppContext.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Collections.Immutable.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Console.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Globalization.Calendars.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Http.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Sockets.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Reflection.Metadata.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.ValueTuple.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe.config
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.rsp
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe.config
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.Web.Infrastructure.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CoreCompileInputs.cache
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CopyComplete
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.dll
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.pdb
+F:\SoftwareArchitecture\app\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.AssemblyReference.cache
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll.config
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.pdb
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe.config
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.rsp
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe.config
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.rsp
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.AppContext.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Collections.Immutable.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Console.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Globalization.Calendars.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Http.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Sockets.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Reflection.Metadata.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.ValueTuple.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe.config
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.rsp
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe.config
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.Web.Infrastructure.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CoreCompileInputs.cache
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CopyComplete
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.dll
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.pdb
+D:\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csprojAssemblyReference.cache
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll.config
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\QuanLyStudent.pdb
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.exe.config
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csc.rsp
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.exe.config
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\csi.rsp
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.AppContext.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Collections.Immutable.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Console.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Globalization.Calendars.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Http.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Net.Sockets.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Reflection.Metadata.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.ValueTuple.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.exe.config
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\vbc.rsp
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\roslyn\VBCSCompiler.exe.config
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.Web.Infrastructure.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\EntityFramework.SqlServer.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Razor.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Deployment.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Webpages.Razor.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Helpers.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\System.Web.Mvc.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.AssemblyReference.cache
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CoreCompileInputs.cache
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CopyComplete
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.dll
+E:\PHUC_DISK D\PHUC 02\PHUCPQ\PHUCPQ\University HSU\2131\sofware\Đồ án\QuanLyStudent_Team11\QuanLyStudent_Team11\QuanLyStudent\obj\Debug\QuanLyStudent.pdb

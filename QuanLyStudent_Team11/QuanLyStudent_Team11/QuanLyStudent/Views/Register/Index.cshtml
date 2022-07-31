@@ -1,0 +1,80 @@
+﻿@model QuanLyStudent.Models.User
+@{
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <style>
+        .field-validation-error {
+            color: red;
+        }
+
+        body {
+            font-size: 25px;
+            justify-content: center;
+        }
+        h2{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <div id="login-div">
+        <h2>Register Form</h2>
+        @using (Html.BeginForm("RegisterIndex", "Register", FormMethod.Post))
+        {
+            <table>
+                <tr>
+                    <td>@Html.LabelFor(model => model.Username) </td>
+                    <td>@Html.EditorFor(model => model.Username) </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>@Html.ValidationMessageFor(model => model.Username)</td>
+                </tr>
+                <tr>
+                    <td>@Html.LabelFor(model => model.Password) </td>
+                    <td>@Html.EditorFor(model => model.Password) </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>@Html.ValidationMessageFor(model => model.Password)</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td class="text-danger">@ViewBag.FailMessage</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <div class="row justify-content-evenly">
+                            <div class="col-4">
+                                <input class="btn btn-primary mb-3" type="submit" value="Register" />
+                            </div>
+                            <div class="col-4">
+                                <input class="btn btn-primary mb-3" type="reset" value="Clear" />
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <div class="text-center text-lg-start mt-4 pt-2">
+
+                <p class="small fw-bold mt-2 pt-1 mb-0">
+                    <a href="@Url.Action("Index","Login")"
+                       class="link-danger">Back to login page</a>
+                </p>
+            </div>
+        }
+    </div>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</body>
+</html>

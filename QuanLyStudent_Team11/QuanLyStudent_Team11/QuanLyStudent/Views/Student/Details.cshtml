@@ -1,0 +1,98 @@
+﻿@model QuanLyStudent.Models.Student
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Clothe</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <h4>Thông Tin học sinh </h4>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sex)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sex)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <h4> thong tin lớp học </h4>
+        <dt>
+            @Html.DisplayNameFor(model => model.Class.Titlename):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Class.Titlename):
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Class.Duration):
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Class.Duration)
+        </dd>
+        <h4>User quản lý</h4>
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.Password)
+        </dd>
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { ID = Model.ID }) |*@
+    @Html.ActionLink("Back to List", "Index")
+</p>
